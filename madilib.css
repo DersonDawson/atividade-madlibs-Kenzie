@@ -1,0 +1,13 @@
+*{
+    background-color: burlywood;
+    font-size: larger;
+    font-style: oblique;
+
+}
+.tobey{
+    height: 250px;
+    display: flex;
+    width: 70%;
+}
+
+       
